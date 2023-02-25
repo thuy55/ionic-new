@@ -1,0 +1,7 @@
+{
+  "name": "appSchoolParent",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

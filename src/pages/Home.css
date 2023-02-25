@@ -1,0 +1,15 @@
+ion-item {
+    --padding-start: 0;
+  }
+  
+  /* iOS places the subtitle above the title */
+  ion-card-header.ios {
+    display: flex;
+    flex-flow: column-reverse;
+  }
+  .cardHome{
+    margin-top: 60px;
+  }
+  .name{
+    background-color: #D3D3D3; padding: 8px;margin: 0; margin-left: 10px;
+  }
